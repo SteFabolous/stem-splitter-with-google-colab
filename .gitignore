@@ -1,0 +1,13 @@
+# Python / Colab
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Audio outputs / Temp files
+*.wav
+*.mp3
+*.flac
+temp_input.*
+output/
+downloads/
