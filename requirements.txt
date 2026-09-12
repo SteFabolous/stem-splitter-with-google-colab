@@ -1,0 +1,4 @@
+audio-separator[gpu]>=0.17.0
+yt-dlp
+onnxruntime-gpu
+torch
